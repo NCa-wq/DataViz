@@ -5,8 +5,8 @@ Corso di Data Viz
 
 > Andamento del contagio per provincia
 
-![Grafico 1](graph1)
+![Grafico 1](graph1.png)
 
 > Grafico a torta
 
-![Grafico 2](graph2)
+![Grafico 2](graph2.png)
