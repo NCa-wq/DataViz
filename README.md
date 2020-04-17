@@ -1,10 +1,12 @@
 # DataViz
 Corso di Data Viz
 
+# Grafici
+
 > Andamento del contagio per provincia
 
-![Grafico linee](graph1)
+![Grafico 1](graph1)
 
-> Graficio a torta
+> Grafico a torta
 
-![Grafico torta](graph2)
+![Grafico 2](graph2)
