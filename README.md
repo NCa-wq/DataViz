@@ -3,7 +3,7 @@ Corso di Data Viz
 
 # Grafici
 
-> Andamento del contagio per provincia
+> Andamento del contagio
 
 ![Grafico 1](graph1.png)
 
