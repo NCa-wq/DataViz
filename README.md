@@ -10,3 +10,8 @@ Corso di Data Viz
 2. And no play
 
 > mo ti faccio alcuni commenti
+
+> beccati sta foto
+
+![Wallah](IMG_20170311_185514.jpg)
+
